@@ -1,4 +1,4 @@
-# marketing-playbook
+# MARKETING
 It doesn't matter how nice your product is if no one uses it.
 
 ## Business Value Manifesto
