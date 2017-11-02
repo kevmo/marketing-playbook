@@ -16,3 +16,5 @@ Propaganda by Edward Bernays
 Public Opinion by Walter Lippman
 
 Guerilla Marketing
+
+[Google's Search Quality Guidelines](http://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)
